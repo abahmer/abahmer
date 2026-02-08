@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 👋 Hello, I'm Andreas
+## 👋 Hello, I'm Andreas
 
 I'm interested in:
 - 🧠 Neuroscience
