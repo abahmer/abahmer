@@ -3,6 +3,8 @@
 I'm interested in:
 - 🧠 Neuroscience
 - 🤖 AI & education
-- 🏫 Digitalization in schools  
+- 🏫 Digitalization in schools
 
-📫Contact 
+![Wandernde Gehirnwelle](./images/brainwave.svg)
+
+📫
